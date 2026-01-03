@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## License
 
-This project is open source.  (Consider adding a LICENSE file to specify the exact license).
+This project is open source.
 
 ## Acknowledgements
 
